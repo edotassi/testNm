@@ -1,0 +1,11 @@
+﻿Compilazione avviata 11/01/2013 18.36.34.
+     1>Progetto "c:\Users\edoardo\documents\visual studio 2012\Projects\testNm\testNm\testNm.vcxproj" sul nodo 2 (destinazioni: Build).
+     1>Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\edoardo\documents\visual studio 2012\Projects\testNm\Debug\testNm.exe" /INCREMENTAL /NOLOGO Nmapi.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\edoardo\documents\visual studio 2012\Projects\testNm\Debug\testNm.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\edoardo\documents\visual studio 2012\Projects\testNm\Debug\testNm.lib" /MACHINE:X86 Debug\stdafx.obj
+         Debug\testNm.obj
+         testNm.vcxproj -> c:\users\edoardo\documents\visual studio 2012\Projects\testNm\Debug\testNm.exe
+     1>Compilazione progetto "c:\Users\edoardo\documents\visual studio 2012\Projects\testNm\testNm\testNm.vcxproj" (destinazioni: Build) completata.
+
+Compilazione completata.
+
+Tempo trascorso 00:00:00.86
